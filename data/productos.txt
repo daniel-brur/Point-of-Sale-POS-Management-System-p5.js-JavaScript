@@ -1,0 +1,36 @@
+Pizza Maui Love  233
+Pizza Veggie  227
+Pizza Kilahuea  233
+Pizza Peppes  218
+Pizza 4 Formaggi  221
+Pizza Clasica  167
+Pizza Margarita  174
+Pizza Hawaiana  194
+Pizza Diabola  194
+Pizza Arugula Temp 174
+Pizza Jamon Serrano Temp  200
+Pizza Arrachera  376
+Pizza Pollo y Verdura  250
+Pancheese Queso Mozzarela  60
+Pancheese 4 Formaggio  75
+Pancheese Jamon y queso  65
+Pancheese Pollo y Pancetta  66
+Pancheese Pepperoni  65
+Pancheese Arrachera  150
+Pancheese Especial  70
+Extras Papas gajo  45
+Extras Alitas  80
+Extras 4 prizzitos  50
+Extras +Orilla de queso  50
+Paninos Pannouzzo  60
+Paninos 4 Formaggio  75
+Paninos Jamon y queso  65
+Paninos Pollo y Pancetta  85
+Paninos Arrachera  150
+Pan suelto sin pesto 30
+Pan suelto con pesto 35
+Ensaladas Cesar  60
+Ensaladas Isabela  80
+Bebidas Refresco  20
+Pizzas Individual Pepperoni 70
+Pizzas Individual Otros 75
